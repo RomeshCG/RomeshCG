@@ -3,7 +3,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=romeshcg&label=Profile%20views&color=0e75b6&style=flat" alt="romeshcg" /> </p>
 
-<p align="left"> <a href="https://twitter.com/roma_gam" target="blank"><img src="https://img.shields.io/twitter/follow/roma_gam?logo=twitter&style=for-the-badge" alt="roma_gam" /></a> </p>
 
 - 🔭 I’m currently working on **The Artful Digital**
 
