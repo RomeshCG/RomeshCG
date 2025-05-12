@@ -4,11 +4,11 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=romeshcg&label=Profile%20views&color=0e75b6&style=flat" alt="romeshcg" /> </p>
 
 
-- 🔭 I’m currently working on (co-founder) **WebWise Media Australia**
+- 🔭 I’m currently working on (co-founder) **WebWise Media Australia & Flamelens Media**
 
 - 🌱 I’m currently learning **React**
 
-- 📫 How to reach me **romesh@webwisemedia.com.au**
+- 📫 How to reach me **hello@romesh.live**
 
 
 <h3 align="left">Connect with me:</h3>
