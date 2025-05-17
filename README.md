@@ -5,10 +5,8 @@
   <img src="https://komarev.com/ghpvc/?username=romeshcg&label=Profile%20views&color=0e75b6&style=flat" alt="romeshcg" /> 
 </p>
 
-- 🔭 I’m currently working on (co-founder) **WebWise Media Australia & Flamelens Media**
-
-- 🌱 I’m currently learning **React**
-
+- 💼 Working on freelance and startup projects in **web development**, **software**, and **digital media**
+  
 - 📫 How to reach me **hello@romesh.live**
 
 <h3 align="left">Connect with me:</h3>
