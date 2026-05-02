@@ -9,7 +9,7 @@
 
 ### 💼 About Me
 - Working on freelance and startup projects in **web development**, **software**, and **digital media**
-- 📫 Reach me: **hello@romesh.live**
+- 📫 Reach me: **hello@romesh.xyz**
 
 ---
 
